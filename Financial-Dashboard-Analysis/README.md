@@ -17,7 +17,7 @@ The dataset includes:
 - Discount Band, Sales Price, Manufacturer Price  
 - Year (2013–2014), Month, and Month Name  
 
-[Click here to view the dataset](Finance_dataset.xlsx)
+[Click here to view the dataset](Finance%20dataset.xlsx)
 
 ## Key Features
 - Interactive KPIs for **total sales, total units sold, total profit, AverageSalesPerUnit, and Sales Growth%**
@@ -45,3 +45,4 @@ The dataset includes:
 - Provides clear insights into financial performance  
 - Helps understand sales and profit patterns across products and regions  
 - Useful for decision-making and performance evaluation  
+
